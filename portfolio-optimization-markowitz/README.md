@@ -48,7 +48,8 @@ Python · NumPy · pandas · SciPy (`optimize.minimize`) · statsmodels · Matpl
 
 ```
 .
-├── portfolio_optimization.ipynb   # Full analysis (exercises 1–7)
+├── notebooks/
+│   └── portfolio_optimization.ipynb   # Full analysis (exercises 1–7)
 ├── report/
 │   └── report_group1.pdf          # Written report with figures and commentary
 ├── requirements.txt
@@ -59,7 +60,7 @@ Python · NumPy · pandas · SciPy (`optimize.minimize`) · statsmodels · Matpl
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook portfolio_optimization.ipynb
+jupyter notebook notebooks/portfolio_optimization.ipynb
 ```
 
 The notebook was originally developed in Google Colab. The first cell mounts Google Drive (`from google.colab import drive`); when running locally, skip that cell and point the data-loading cells to a local path. The underlying return dataset is course-provided and is not redistributed here.
