@@ -1,10 +1,6 @@
 # POLIMI GSoM — Quantitative Finance Projects
 
-A curated collection of group projects from my **M.Sc. in Quantitative Finance** at **GSoM – Politecnico di Milano**. Each project applies quantitative methods to a real financial problem, end to end in Python: portfolio theory, statistical arbitrage with deep learning, and financial NLP.
-
-> 🎓 Published after completing the M.Sc. in Quantitative Finance, GSoM – Politecnico di Milano. More projects will be added over time.
-
----
+A curated collection of group projects from my **M.Sc. in Quantitative Finance** at **GSoM – Politecnico di Milano**. Each project applies quantitative methods to a real financial problem, end to end in Python. 
 
 ## Projects
 
@@ -39,8 +35,8 @@ Raw datasets are **not** included: some are course-provided or proprietary (e.g.
 
 These were group projects. Contributors are credited by name in each project's README, and will be added as repository collaborators on GitHub.
 
-- **Portfolio Optimization** — Antonio Fontanella, Luca Palumbo, Lorenzo Meloncelli, Nicolò Ferrari
-- **Statistical Arbitrage EWS** — Lorenzo Meloncelli, Nicolò Ferrari, Luca Palumbo, Antonio Fontanella
+- **Portfolio Optimization** — Nicolò Ferrari, Luca Palumbo, Lorenzo Meloncelli, Antonio Fontanella
+- **Statistical Arbitrage EWS** — Nicolò Ferrari, Luca Palumbo, Lorenzo Meloncelli, Antonio Fontanella
 - **Financial News Sentiment** — Nicolò Ferrari, Luca Palumbo, Lorenzo Meloncelli, Antonio Fontanella
 
 ## License
