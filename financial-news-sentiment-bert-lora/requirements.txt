@@ -1,0 +1,12 @@
+torch
+transformers
+peft
+datasets
+accelerate
+scikit-learn
+pandas
+numpy
+matplotlib
+yfinance
+kaggle
+jupyter

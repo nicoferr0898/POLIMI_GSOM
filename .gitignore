@@ -1,0 +1,41 @@
+# --- Secrets & credentials (NEVER commit) ---
+.env
+*.key
+*.pem
+kaggle.json
+secrets.*
+
+# --- Data & heavy artifacts (proprietary / too large for GitHub) ---
+*.csv
+*.xlsx
+*.xlsm
+*.xls
+*.pkl
+*.zip
+*.pt
+*.pth
+*.safetensors
+data/
+Data/
+models/
+
+# --- OS / editor ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# --- Claude / scratch ---
+CLAUDE.md
+.claude/
+_superseded/
+
+# --- Publish runbook (agent how-to, not part of the projects) ---
+PUBLISH_GUIDE.md
