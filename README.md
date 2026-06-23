@@ -9,6 +9,7 @@ A curated collection of group projects from my **M.Sc. in Quantitative Finance**
 | [📈 Portfolio Optimization (Markowitz)](portfolio-optimization-markowitz/) | Asset management | Mean–variance allocation on a multi-sector S&P 500 subset: shrinkage covariance, efficient frontiers, CAPM, Black–Litterman | Tangency vs. constrained frontiers; CAPM betas 0.44–1.32 |
 | [🤖 Statistical Arbitrage EWS (LSTM)](statistical-arbitrage-lstm-ews/) | Quant / ML | Pairs-trading Early Warning System: OPTICS + cointegration pair selection, LSTM novelty detector | **Sharpe 2.60 vs 0.93** on COVID stress test |
 | [📰 Financial News Sentiment (BERT + LoRA)](financial-news-sentiment-bert-lora/) | NLP | Explaining same-day stock moves from headlines via two-stage LoRA transfer learning | macro-F1 0.415, +30% over chance |
+| [🌱 ESG & the Efficient Frontier](esg-markowitz-frontier/) | Sustainable finance | How an ESG-score constraint reshapes the Markowitz frontier on Russell 3000 stocks | Cost of ESG is ~free with shorting, convex above τ\*≈0.65 long-only |
 
 Each subfolder has its own README with full methodology, results, and instructions.
 
@@ -23,6 +24,7 @@ POLIMI_GSOM/
 ├── portfolio-optimization-markowitz/   # Markowitz / CAPM / Black-Litterman
 ├── statistical-arbitrage-lstm-ews/     # Pairs trading + LSTM anomaly detection
 ├── financial-news-sentiment-bert-lora/ # BERT + LoRA financial NLP
+├── esg-markowitz-frontier/             # ESG-constrained efficient frontier
 ├── LICENSE
 └── README.md
 ```
@@ -38,6 +40,7 @@ These were group projects. Contributors are credited by name in each project's R
 - **Portfolio Optimization** — Nicolò Ferrari, Luca Palumbo, Lorenzo Meloncelli, Antonio Fontanella
 - **Statistical Arbitrage EWS** — Nicolò Ferrari, Luca Palumbo, Lorenzo Meloncelli, Antonio Fontanella
 - **Financial News Sentiment** — Nicolò Ferrari, Luca Palumbo, Lorenzo Meloncelli, Antonio Fontanella
+- **ESG & the Efficient Frontier** — Nicolò Ferrari, Antonio Fontanella, Luca Palumbo, Lorenzo Meloncelli
 
 ## License
 
