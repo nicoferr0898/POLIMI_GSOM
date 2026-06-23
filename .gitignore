@@ -39,3 +39,6 @@ _superseded/
 
 # --- Publish runbook (agent how-to, not part of the projects) ---
 PUBLISH_GUIDE.md
+
+# --- Local working log (do NOT publish) ---
+CHANGELOG.md
