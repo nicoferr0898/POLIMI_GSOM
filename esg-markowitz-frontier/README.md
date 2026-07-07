@@ -39,7 +39,7 @@ Python · NumPy · pandas · SciPy (`optimize.minimize`) · statsmodels · Matpl
 
 ```bash
 pip install -r requirements.txt
-python esg_efficient_frontier.py
+python notebooks/esg_efficient_frontier.py
 ```
 
 The script expects `ESG_monthly_clean.csv` and `Returns.csv` in the working directory (not included — see *Data* above) and writes paper-ready figures (`fig_*.png`).
