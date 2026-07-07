@@ -4,12 +4,12 @@ A curated collection of group projects from my **M.Sc. in Quantitative Finance**
 
 ## Projects
 
-| Project | Field | What it does | Headline result |
-|---|---|---|---|
-| [📈 Portfolio Optimization (Markowitz)](portfolio-optimization-markowitz/) | Asset management | Mean–variance allocation on a multi-sector S&P 500 subset: shrinkage covariance, efficient frontiers, CAPM, Black–Litterman | Tangency vs. constrained frontiers; CAPM betas 0.44–1.32 |
-| [🤖 Statistical Arbitrage EWS (LSTM)](statistical-arbitrage-lstm-ews/) | Quant / ML | Pairs-trading Early Warning System: OPTICS + cointegration pair selection, LSTM novelty detector | **Sharpe 2.60 vs 0.93** on COVID stress test |
-| [📰 Financial News Sentiment (BERT + LoRA)](financial-news-sentiment-bert-lora/) | NLP | Explaining same-day stock moves from headlines via two-stage LoRA transfer learning | macro-F1 0.415, +30% over chance |
-| [🌱 ESG & the Efficient Frontier](esg-markowitz-frontier/) | Sustainable finance | How an ESG-score constraint reshapes the Markowitz frontier on Russell 3000 stocks | Cost of ESG is ~free with shorting, convex above τ\*≈0.65 long-only |
+| Project | Field | What it does |
+|---|---|---|
+| [📈 Portfolio Optimization (Markowitz)](portfolio-optimization-markowitz/) | Asset management | Mean–variance allocation on a multi-sector S&P 500 subset: shrinkage covariance, efficient frontiers, CAPM, Black–Litterman | 
+| [🤖 Statistical Arbitrage EWS (LSTM)](statistical-arbitrage-lstm-ews/) | Quant / ML | Pairs-trading Early Warning System: OPTICS + cointegration pair selection, LSTM novelty detector | 
+| [📰 Financial News Sentiment (BERT + LoRA)](financial-news-sentiment-bert-lora/) | NLP | Explaining same-day stock moves from headlines via two-stage LoRA transfer learning | 
+| [🌱 ESG & the Efficient Frontier](esg-markowitz-frontier/) | Sustainable finance | How an ESG-score constraint reshapes the Markowitz frontier on Russell 3000 stocks |
 
 Each subfolder has its own README with full methodology, results, and instructions.
 
