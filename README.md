@@ -29,18 +29,13 @@ POLIMI_GSOM/
 └── README.md
 ```
 
-## A note on data & reproducibility
-
-Raw datasets are **not** included: some are course-provided or proprietary (e.g. Bloomberg-sourced macro data) and others are too large for GitHub (Kaggle headline corpus). API tokens and credentials are never committed. Each project README explains how to obtain or regenerate its data.
-
 ## Teams
 
-These were group projects. Contributors are credited by name in each project's README, and will be added as repository collaborators on GitHub.
-
+These were group projects. 
 - **Portfolio Optimization** — Nicolò Ferrari, Luca Palumbo, Lorenzo Meloncelli, Antonio Fontanella
 - **Statistical Arbitrage EWS** — Nicolò Ferrari, Luca Palumbo, Lorenzo Meloncelli, Antonio Fontanella
 - **Financial News Sentiment** — Nicolò Ferrari, Luca Palumbo, Lorenzo Meloncelli, Antonio Fontanella
-- **ESG & the Efficient Frontier** — Nicolò Ferrari, Antonio Fontanella, Luca Palumbo, Lorenzo Meloncelli
+- **ESG & the Efficient Frontier** — Nicolò Ferrari, Luca Palumbo, Lorenzo Meloncelli, Antonio Fontanella
 
 ## License
 
