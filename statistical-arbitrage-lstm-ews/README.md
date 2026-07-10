@@ -58,7 +58,6 @@ Python · PyTorch · scikit-learn (OPTICS, PCA, StandardScaler) · statsmodels (
 │   └── 03_lstm_model.ipynb         # SpreadLSTM novelty detector + backtest
 ├── docs/
 │   ├── statistical_arbitrage_lstm_ews_abstract.pdf   # 2-page technical abstract
-│   └── presentation.pptx           # Hackathon slides
 ├── RESULTS.md                      # Full result tables
 ├── requirements.txt
 └── README.md
