@@ -38,7 +38,7 @@ Daily total returns and market caps for six S&P 500 stocks, plus the S&P 500 ind
 - **Constraints dominate downward**, as theory predicts: both constrained frontiers are dominated by the unconstrained Markowitz frontier, since each constraint shrinks the feasible set. To reach a 6% annual target, unconstrained Markowitz achieves 2.74% volatility, versus 6.32% and 11.28% under the two constraint sets.
 - **CAPM** — market beta is statistically significant for all six assets. BK (β ≈ 1.32) and ADBE (β ≈ 1.19) are the most aggressive; CAG (β ≈ 0.44) and XEL (β ≈ 0.55) the most defensive. Alphas are economically small and statistically insignificant, and R² ranges from ≈ 0.09 to ≈ 0.51 — consistent with CAPM, with a non-trivial idiosyncratic component remaining.
 
-Full discussion and figures are in [`report/report_group1.pdf`](report/report_group1.pdf).
+Full discussion and figures are in [`report/markowitz_portfolio_optimization_report.pdf`](report/markowitz_portfolio_optimization_report.pdf).
 
 ## Tech stack
 
@@ -51,7 +51,7 @@ Python · NumPy · pandas · SciPy (`optimize.minimize`) · statsmodels · Matpl
 ├── notebooks/
 │   └── portfolio_optimization.ipynb   # Full analysis (exercises 1–7)
 ├── report/
-│   └── report_group1.pdf          # Written report with figures and commentary
+│   └── markowitz_portfolio_optimization_report.pdf   # Written report with figures and commentary
 ├── requirements.txt
 └── README.md
 ```
