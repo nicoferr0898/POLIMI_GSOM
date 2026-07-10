@@ -29,7 +29,7 @@ solving the constrained mean–variance problem numerically across a grid of ESG
 - **Long-only tells a different story.** The long-only maximum-Sharpe portfolio has a "natural" ESG score of ≈ **0.65** (μ ≈ 24.5%, σ ≈ 18.3%, Sharpe ≈ 1.18). Below that threshold the constraint is slack and costless; **above τ\* ≈ 0.65 the cost in volatility and Sharpe grows convexly**, with the shadow price rising sharply.
 - **Mechanism:** the cost comes from a rotation of weights away from higher-return low-ESG stocks toward high-ESG stocks. Heterogeneity *within* the high-ESG group (e.g. MSFT, ESG ≈ 0.91 and the sample's best individual Sharpe ≈ 1.00) shapes how fast the cost accelerates.
 
-Full derivations, figures and tables are in [`docs/report.pdf`](docs/report.pdf). The framework follows Azzone et al. (2024).
+Full derivations, figures and tables are in [`docs/esg_markowitz_frontier_report.pdf`](docs/esg_markowitz_frontier_report.pdf). The framework follows Azzone et al. (2024).
 
 ## Tech stack
 

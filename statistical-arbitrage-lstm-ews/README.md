@@ -57,7 +57,7 @@ Python · PyTorch · scikit-learn (OPTICS, PCA, StandardScaler) · statsmodels (
 │   ├── 02_threshold_model.ipynb    # ±2σ z-score baseline + backtest
 │   └── 03_lstm_model.ipynb         # SpreadLSTM novelty detector + backtest
 ├── docs/
-│   ├── abstract.pdf                # 2-page technical abstract
+│   ├── statistical_arbitrage_lstm_ews_abstract.pdf   # 2-page technical abstract
 │   └── presentation.pptx           # Hackathon slides
 ├── RESULTS.md                      # Full result tables
 ├── requirements.txt
